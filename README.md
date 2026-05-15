@@ -1,6 +1,6 @@
-# TallyUp User Guide
+# Tally Up User Guide
 
-User-facing documentation for TallyUp, published at [help.tally-up.app](https://help.tally-up.app/).
+User-facing documentation for Tally Up, published at [help.tally-up.app](https://help.tally-up.app/).
 
 ## Structure
 
@@ -40,4 +40,4 @@ Content lives in `docs/`:
 
 ---
 
-© 2025 TallyUp. All rights reserved.
+© 2025 Tally Up. All rights reserved.
