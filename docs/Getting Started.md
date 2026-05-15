@@ -84,4 +84,4 @@ Your data syncs via iCloud and will be available as soon as you sign in to Tally
 
 ---
 
-Have a question that isn't covered here? Reach out via **Settings → Feedback**.
+Have a question that isn't covered here? Reach out via our [contact page](https://tally-up.app/contact/).

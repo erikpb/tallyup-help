@@ -28,7 +28,8 @@ Content lives in `docs/`:
     - [Income](docs/Budgeting/Income.md)
     - [Expenses](docs/Budgeting/Expenses.md)
     - [Budgets](docs/Budgeting/Budgets.md)
-- [Settings & Subscription](docs/Settings%20and%20Subscription.md)
+- [Settings](docs/Settings.md)
+- [Privacy](docs/Privacy.md)
 - [Export & Backup](docs/Export%20and%20Backup.md)
 
 ## Conventions

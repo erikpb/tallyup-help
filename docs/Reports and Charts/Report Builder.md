@@ -15,7 +15,6 @@ Tally Up includes a set of built-in reports that are always available:
 | **Assets** | Forecast of asset values by type |
 | **Operational Cash** | Available spending cash over time |
 | **Portfolio** | Current investment holdings and composition |
-| **Portfolio Briefing** | Summary of portfolio status and performance |
 | **Capital Gains** | Disposal history and gains by tax year |
 
 System reports cannot be edited or deleted.

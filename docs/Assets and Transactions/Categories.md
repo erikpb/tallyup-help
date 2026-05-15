@@ -47,7 +47,7 @@ Swipe to delete. Transactions that used the deleted category become uncategorise
 
 ## Automatic categories
 
-When you import transactions via QIF, Tally Up reads the category labels in the file and creates matching categories automatically. This saves manual setup if you are migrating from another finance app.
+When you [import transactions](Transactions.md#importing-transactions), Tally Up reads the category labels in the file and creates matching categories automatically. This saves manual setup if you are migrating from another finance app.
 
 Tally Up's auto-categorisation engine also assigns categories to new transactions based on your Category Rules. See [Category Rules](Category%20Rules.md) for details.
 

@@ -39,6 +39,12 @@ Go to **Settings → Data Feed** to configure how Tally Up fetches market data, 
 
 ---
 
+## Sync and storage
+
+Exchange rates are stored on your device only — they are not synced via iCloud. Each of your devices fetches rate history independently. This keeps your iCloud sync small, since rate history across all currency pairs can grow large over time.
+
+---
+
 ## Tips
 
 - Make sure your base currency is set correctly before adding assets in other currencies. Changing it later is safe, but worth getting right early.

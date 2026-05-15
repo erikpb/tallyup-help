@@ -37,4 +37,4 @@ New to Tally Up? Begin here.
 
 ## Help and support
 
-Have a question not covered here? Reach out via **Settings → Feedback** in the app.
+Have a question not covered here? Reach out via our [contact page](https://tally-up.app/contact/).

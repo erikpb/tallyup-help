@@ -19,7 +19,6 @@ Tap **Add** and fill in:
 | Currency | The currency the security trades in |
 | Market | Optional exchange identifier (e.g. `NYSE`, `LSE`) |
 | Type | Stock, ETF, Mutual Fund, Bond, Crypto, Stock Option, or Other |
-| Auto-fetch pricing | Whether Tally Up should fetch prices automatically |
 
 ### Editing or deleting a security
 
@@ -31,19 +30,17 @@ Tap any security to edit its details. Deleting a security removes its price hist
 
 ### Automatic pricing
 
-With **Auto-fetch pricing** enabled, Tally Up retrieves prices from market data providers in the background. Prices update automatically — no action is required.
+Tally Up retrieves prices from market data providers in the background. Prices update automatically — no action is required.
 
 If automatic pricing encounters an error (for example, an unrecognised symbol or a provider outage), the date and reason are shown on the security's detail screen.
 
 ### Manual pricing
 
-If you disable auto-fetch pricing, you can enter prices yourself.
-
-Open the security → tap **Prices** → tap **Add** to enter a price for a specific date.
+You can enter prices manually for any security. Open the security → tap **Prices** → tap **Add** to enter a price for a specific date.
 
 Manual prices are useful for:
 
-- Assets traded on exchanges not covered by automatic providers
+- Securities traded on exchanges not covered by automatic providers
 - Historical prices you want to lock in from a specific source
 - Private securities with no market price feed
 
@@ -54,6 +51,14 @@ Manual prices are useful for:
 When you record a buy or sell transaction on an investment asset, you can link it to a security. Tally Up uses those links — along with the security's price history — to calculate your portfolio value and performance over time.
 
 Securities can also be created automatically during QIF import if the file includes investment transactions with symbol information.
+
+---
+
+## Sync and storage
+
+Automatically fetched prices are stored on your device only — they are not synced via iCloud. Each of your devices fetches price history independently. This keeps your iCloud sync small, since price history across many securities can be large.
+
+Manual prices you enter are synced via iCloud along with the rest of your plan data, so they remain available on all your devices without needing to be re-entered.
 
 ---
 

@@ -47,6 +47,21 @@ Importing the same file twice is safe — Tally Up detects duplicates and update
 
 ---
 
+## Currency detection
+
+For plan-level imports, Tally Up tries to determine the correct currency for each account automatically before showing the review screen. It checks in this order:
+
+1. **Account name** — if the account name contains a three-letter ISO currency code (e.g. `Savings USD` or `GBP Current Account`), that currency is used.
+2. **Filename** — if the QIF filename contains an isolated three-letter currency code (e.g. `transactions-GBP-2024.qif`), that currency is used.
+3. **Existing asset** — if the account maps to an asset already in your plan, that asset's currency is used.
+4. **Base currency** — if none of the above apply, your app base currency is used as the default.
+
+If the account name and filename both contain currency codes and they conflict, Tally Up leaves the currency blank and requires you to choose one in the review screen before proceeding.
+
+You can always override the detected currency in the review screen before confirming the import.
+
+---
+
 ## Categories from QIF
 
 Categories in the QIF file are created automatically in Tally Up. If a category already exists with the same name, it is reused. The category hierarchy from the QIF file is preserved.
