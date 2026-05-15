@@ -1,6 +1,6 @@
 # TallyUp User Guide
 
-User-facing documentation for TallyUp, published at [ebo.github.io/tallyup-help](https://ebo.github.io/tallyup-help/).
+User-facing documentation for TallyUp, published at [help.tally-up.app](https://help.tally-up.app/).
 
 ## Structure
 
