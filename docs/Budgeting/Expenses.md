@@ -1,6 +1,6 @@
 # Expenses
 
-Expense entries represent recurring outgoings in your plan — living costs, loan repayments, holidays, and anything else you expect to pay regularly. TallyUp uses these alongside your income to project your future financial position.
+Expense entries represent recurring outgoings in your plan — living costs, loan repayments, holidays, and anything else you expect to pay regularly. Tally Up uses these alongside your income to project your future financial position.
 
 Like income, expenses are planning inputs for the forecast — they represent what you expect to spend, not a record of what has already been spent.
 

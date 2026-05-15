@@ -1,6 +1,6 @@
 # Export & Backup
 
-TallyUp gives you full control over your data. You can export your plan at any time as a file you can keep, share, or restore from.
+Tally Up gives you full control over your data. You can export your plan at any time as a file you can keep, share, or restore from.
 
 ---
 
@@ -29,7 +29,7 @@ Use this to transfer market data to another plan.
 
 ## File format
 
-Exports are saved as **JSON files**. The file is human-readable and version-stamped, so TallyUp can handle files created by older versions of the app.
+Exports are saved as **JSON files**. The file is human-readable and version-stamped, so Tally Up can handle files created by older versions of the app.
 
 Give the file a recognisable name and save it somewhere safe — your Files app, iCloud Drive, or an external location.
 
@@ -39,15 +39,15 @@ Give the file a recognisable name and save it somewhere safe — your Files app,
 
 Open the **Plans** screen and tap the **import icon** (a square with a downward arrow). Select a previously exported JSON file.
 
-If a plan with the same name already exists, TallyUp will ask whether to replace it or cancel.
+If a plan with the same name already exists, Tally Up will ask whether to replace it or cancel.
 
-After a full plan import, TallyUp re-fetches auto-priced security prices and FX rates in the background.
+After a full plan import, Tally Up re-fetches auto-priced security prices and FX rates in the background.
 
 ---
 
 ## iCloud sync
 
-As well as manual exports, TallyUp syncs your plan data across your devices via iCloud automatically. If you sign in to TallyUp on a new device with the same Apple ID, your plans will be available without needing to restore from an export file.
+As well as manual exports, Tally Up syncs your plan data across your devices via iCloud automatically. If you sign in to Tally Up on a new device with the same Apple ID, your plans will be available without needing to restore from an export file.
 
 Manual exports are for your own peace of mind and for moving data to locations outside iCloud.
 

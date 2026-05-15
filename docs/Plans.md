@@ -1,6 +1,6 @@
 # Plans
 
-A Plan is the top-level container for your financial life in TallyUp. Everything — your people, assets, income, expenses, and projections — lives inside a plan.
+A Plan is the top-level container for your financial life in Tally Up. Everything — your people, assets, income, expenses, and projections — lives inside a plan.
 
 ---
 
@@ -61,4 +61,4 @@ Plans can be exported as a JSON file and restored from that file at any time. Se
 
 ## Base currency
 
-TallyUp uses a single **base currency** for all reporting across all plans. This is set in **Settings → Base Currency** and is not specific to any one plan. Individual assets can be held in any currency — TallyUp converts them to your base currency for consolidated reports.
+Tally Up uses a single **base currency** for all reporting across all plans. This is set in **Settings → Base Currency** and is not specific to any one plan. Individual assets can be held in any currency — Tally Up converts them to your base currency for consolidated reports.

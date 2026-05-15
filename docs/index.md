@@ -1,14 +1,14 @@
-# TallyUp Help
+# Tally Up Help
 
-Welcome to the TallyUp user guide. Use the navigation on the left to find what you're looking for, or start with the sections below.
+Welcome to the Tally Up user guide. Use the navigation on the left to find what you're looking for, or start with the sections below.
 
 ---
 
 ## Getting started
 
-New to TallyUp? Begin here.
+New to Tally Up? Begin here.
 
-- [Getting Started](Getting Started.md) — what TallyUp is and how to set it up in minutes
+- [Getting Started](Getting Started.md) — what Tally Up is and how to set it up in minutes
 
 ---
 

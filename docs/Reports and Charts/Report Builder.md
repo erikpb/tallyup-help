@@ -1,12 +1,12 @@
 # Report Builder
 
-The Report Builder lets you create, save, and organise custom reports alongside the system reports that TallyUp provides out of the box. Reports are accessible from the dashboard and update automatically as your data changes.
+The Report Builder lets you create, save, and organise custom reports alongside the system reports that Tally Up provides out of the box. Reports are accessible from the dashboard and update automatically as your data changes.
 
 ---
 
 ## System reports
 
-TallyUp includes a set of built-in reports that are always available:
+Tally Up includes a set of built-in reports that are always available:
 
 | Report | What it shows |
 |---|---|

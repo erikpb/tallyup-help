@@ -1,6 +1,6 @@
 # FX Rates
 
-If you hold assets in more than one currency, TallyUp uses exchange rates to convert balances and transaction amounts into your base currency for reporting. FX rates are fetched automatically and require no manual setup in most cases.
+If you hold assets in more than one currency, Tally Up uses exchange rates to convert balances and transaction amounts into your base currency for reporting. FX rates are fetched automatically and require no manual setup in most cases.
 
 ---
 
@@ -16,7 +16,7 @@ You can change your base currency at any time. Historical reports will recalcula
 
 ## How rates are obtained
 
-TallyUp fetches exchange rates automatically in the background for all currency pairs relevant to your assets. For example, if you have assets in GBP and USD and your base currency is EUR, TallyUp will maintain GBP/EUR and USD/EUR rate histories.
+Tally Up fetches exchange rates automatically in the background for all currency pairs relevant to your assets. For example, if you have assets in GBP and USD and your base currency is EUR, Tally Up will maintain GBP/EUR and USD/EUR rate histories.
 
 Rates cover both current and historical dates, so valuations and reports remain accurate across your full transaction history.
 
@@ -26,15 +26,15 @@ Rates cover both current and historical dates, so valuations and reports remain 
 
 Go to **Settings → FX Rates** to browse stored exchange rates. You can filter by currency pair to inspect the data for a specific combination.
 
-FX rates are read-only in this view — they are managed automatically by TallyUp.
+FX rates are read-only in this view — they are managed automatically by Tally Up.
 
 ---
 
 ## Data Feed settings
 
-Go to **Settings → Data Feed** to configure how TallyUp fetches market data, including FX rates:
+Go to **Settings → Data Feed** to configure how Tally Up fetches market data, including FX rates:
 
-- **Automatic refresh** — enable to let TallyUp update rates in the background on a schedule
+- **Automatic refresh** — enable to let Tally Up update rates in the background on a schedule
 - **Refresh interval** — how frequently automatic updates run
 
 ---
@@ -42,5 +42,5 @@ Go to **Settings → Data Feed** to configure how TallyUp fetches market data, i
 ## Tips
 
 - Make sure your base currency is set correctly before adding assets in other currencies. Changing it later is safe, but worth getting right early.
-- If a rate is missing for a specific date, TallyUp uses the nearest available rate as a fallback.
+- If a rate is missing for a specific date, Tally Up uses the nearest available rate as a fallback.
 - FX rates are not included in plan exports — they are re-fetched automatically after an import completes.

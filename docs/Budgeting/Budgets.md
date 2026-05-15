@@ -1,6 +1,6 @@
 # Budgets
 
-Budgets let you define how much you expect to spend or earn across different categories, then compare those targets against what actually happened. TallyUp can build a budget for you from your transaction history, or you can set one up manually.
+Budgets let you define how much you expect to spend or earn across different categories, then compare those targets against what actually happened. Tally Up can build a budget for you from your transaction history, or you can set one up manually.
 
 ---
 
@@ -28,7 +28,7 @@ Set a target amount for each category you want to track:
 
 - Enable the toggle next to a category to include it
 - Enter an amount and choose a frequency: weekly, fortnightly, monthly, quarterly, or yearly
-- TallyUp normalises all amounts to an annual figure for consistent comparison
+- Tally Up normalises all amounts to an annual figure for consistent comparison
 
 **Parent and child categories** — you can set a budget at either the parent or child level, but not both. If a parent category has a budget, its immediate children cannot also have individual budgets, and vice versa.
 
@@ -36,7 +36,7 @@ Set a target amount for each category you want to track:
 
 ## Creating a budget from history
 
-Rather than setting amounts manually, TallyUp can analyse your recent transactions and propose a budget based on what you have actually spent and earned.
+Rather than setting amounts manually, Tally Up can analyse your recent transactions and propose a budget based on what you have actually spent and earned.
 
 Tap **Create from History** and choose:
 
@@ -45,7 +45,7 @@ Tap **Create from History** and choose:
 - The default frequency for generated budget lines
 - Which assets to include
 
-TallyUp processes your transactions in the background and generates a budget with one line per category found in your history. Amounts are averaged across the period and converted to your base currency. You can review and edit the result before using it.
+Tally Up processes your transactions in the background and generates a budget with one line per category found in your history. Amounts are averaged across the period and converted to your base currency. You can review and edit the result before using it.
 
 ---
 

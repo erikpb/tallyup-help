@@ -1,6 +1,6 @@
 # Assets
 
-Assets are your accounts and holdings — every source of value you want to track and include in your financial picture. Each asset holds its own transactions and has its own settings that influence how TallyUp values and forecasts it.
+Assets are your accounts and holdings — every source of value you want to track and include in your financial picture. Each asset holds its own transactions and has its own settings that influence how Tally Up values and forecasts it.
 
 ---
 
@@ -86,7 +86,7 @@ Archived assets can be shown by enabling **Show Archived Assets** in the Assets 
 
 ## Vehicles and depreciation
 
-Vehicle assets support automatic depreciation. Set a depreciation rate and frequency (monthly, quarterly, or annually) and TallyUp will reduce the asset's value on schedule, keeping the forecast realistic.
+Vehicle assets support automatic depreciation. Set a depreciation rate and frequency (monthly, quarterly, or annually) and Tally Up will reduce the asset's value on schedule, keeping the forecast realistic.
 
 ---
 
@@ -94,4 +94,4 @@ Vehicle assets support automatic depreciation. Set a depreciation rate and frequ
 
 - Start with the accounts you use most and add others over time. You do not need to model every asset on day one.
 - Use the return rate honestly — optimistic assumptions compound significantly over a 30-year forecast.
-- If an asset is held in a foreign currency, set its currency correctly. TallyUp will convert it to your base currency in reports using your stored FX rates.
+- If an asset is held in a foreign currency, set its currency correctly. Tally Up will convert it to your base currency in reports using your stored FX rates.

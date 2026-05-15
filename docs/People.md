@@ -20,7 +20,7 @@ Every plan requires at least one **main person** (you). You can add more people 
 | **Partner** | A spouse, civil partner, or co-habitant |
 | **Child** | A dependent or other family member |
 
-Person type affects how TallyUp displays and groups people. It does not restrict which assets or incomes can be assigned to them.
+Person type affects how Tally Up displays and groups people. It does not restrict which assets or incomes can be assigned to them.
 
 ---
 

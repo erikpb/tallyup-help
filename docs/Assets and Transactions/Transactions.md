@@ -1,6 +1,6 @@
 # Transactions
 
-Transactions are the individual entries of activity within an asset — every deposit, withdrawal, trade, and transfer. They are the raw data from which TallyUp builds your reports, categories, and budgets.
+Transactions are the individual entries of activity within an asset — every deposit, withdrawal, trade, and transfer. They are the raw data from which Tally Up builds your reports, categories, and budgets.
 
 ---
 
@@ -58,7 +58,7 @@ Tap any transaction to open it. From there you can edit its details, adjust its 
 
 Most cash transaction types can be assigned a category. Categories are stored on **splits** — portions of the transaction amount assigned to a specific category. A simple transaction has one split covering the full amount. See [Categories](Categories.md) for how to set up your category structure.
 
-TallyUp assigns categories automatically using your [Category Rules](Category%20Rules.md). You can review and override these at any time.
+Tally Up assigns categories automatically using your [Category Rules](Category%20Rules.md). You can review and override these at any time.
 
 ---
 
@@ -72,7 +72,7 @@ To split a transaction, open it and edit the splits section. Add as many splits 
 
 ## Transfer linking
 
-When money moves between two assets in your plan — for example, £500 from a current account to a savings account — TallyUp records a transaction on both sides. These two transactions can be **linked** so the app recognises them as two sides of the same movement, preventing double-counting in reports.
+When money moves between two assets in your plan — for example, £500 from a current account to a savings account — Tally Up records a transaction on both sides. These two transactions can be **linked** so the app recognises them as two sides of the same movement, preventing double-counting in reports.
 
 Transfer links are created automatically during import where possible. You can also link or unlink them manually by editing the transfer split on either transaction.
 
@@ -86,4 +86,4 @@ Rather than adding transactions manually, you can import them in bulk:
 - [CSV Import](Transaction%20Import/CSV.md) — from bank statement downloads
 - [Bank Connections](Transaction%20Import/Bank%20Connections.md) — automatic sync from supported providers
 
-Re-importing the same file is safe — TallyUp detects duplicates and updates rather than creating new entries.
+Re-importing the same file is safe — Tally Up detects duplicates and updates rather than creating new entries.

@@ -1,6 +1,6 @@
 # Categories
 
-Categories describe what your transactions mean. They let you group spending and income into named buckets — Groceries, Salary, Utilities — so TallyUp can show you patterns and measure your budget performance.
+Categories describe what your transactions mean. They let you group spending and income into named buckets — Groceries, Salary, Utilities — so Tally Up can show you patterns and measure your budget performance.
 
 ---
 
@@ -19,7 +19,7 @@ Living Costs
 
 A category at any level can be applied to a transaction. Parent and child categories are independent — you can budget at whichever level makes sense for you.
 
-Every category has a **type**: either Income or Expense. The type determines how TallyUp treats the category in budget reporting.
+Every category has a **type**: either Income or Expense. The type determines how Tally Up treats the category in budget reporting.
 
 ---
 
@@ -47,9 +47,9 @@ Swipe to delete. Transactions that used the deleted category become uncategorise
 
 ## Automatic categories
 
-When you import transactions via QIF, TallyUp reads the category labels in the file and creates matching categories automatically. This saves manual setup if you are migrating from another finance app.
+When you import transactions via QIF, Tally Up reads the category labels in the file and creates matching categories automatically. This saves manual setup if you are migrating from another finance app.
 
-TallyUp's auto-categorisation engine also assigns categories to new transactions based on your Category Rules. See [Category Rules](Category%20Rules.md) for details.
+Tally Up's auto-categorisation engine also assigns categories to new transactions based on your Category Rules. See [Category Rules](Category%20Rules.md) for details.
 
 ---
 

@@ -22,7 +22,7 @@ Settings are accessed via the **Settings** tab in the main navigation. The main 
 
 ## Subscription
 
-TallyUp is a paid app with a **14-day free trial** that begins on first launch. During the trial, all features are available with no restrictions.
+Tally Up is a paid app with a **14-day free trial** that begins on first launch. During the trial, all features are available with no restrictions.
 
 After the trial, a **Pro subscription** is required to continue using the app.
 
@@ -30,7 +30,7 @@ After the trial, a **Pro subscription** is required to continue using the app.
 
 If your trial has ended, the app will prompt you to subscribe. You can also access subscription options via the **Store** section that appears in the navigation when no active subscription is present.
 
-Subscription options include monthly and annual plans. An annual plan works out cheaper if you intend to use TallyUp throughout the year.
+Subscription options include monthly and annual plans. An annual plan works out cheaper if you intend to use Tally Up throughout the year.
 
 ### Restoring a purchase
 
@@ -44,6 +44,6 @@ Your subscription is managed through the App Store. To cancel or change your sub
 
 ## Privacy
 
-TallyUp does not have servers that store your financial data. All calculations are performed on your device. Data syncs between your devices via your own iCloud account.
+Tally Up does not have servers that store your financial data. All calculations are performed on your device. Data syncs between your devices via your own iCloud account.
 
 For full details, see the Privacy Policy linked in the Store screen.

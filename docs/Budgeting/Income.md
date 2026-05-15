@@ -1,6 +1,6 @@
 # Income
 
-Income entries represent recurring money coming into your plan — salary, pension payments, rental income, and anything else you expect to receive regularly. TallyUp uses these to project your future cash position over 30 years.
+Income entries represent recurring money coming into your plan — salary, pension payments, rental income, and anything else you expect to receive regularly. Tally Up uses these to project your future cash position over 30 years.
 
 Income is separate from transaction-level income recorded in your assets. It is a planning input for the forecast, not a record of what has already happened.
 
@@ -27,7 +27,7 @@ A label for this income source — for example, "Salary", "State Pension", or "R
 The type is used for display and categorisation — it does not change how the income is calculated.
 
 ### Amount and frequency
-Enter the amount per payment and how often it is received — monthly, quarterly, annually, or another interval. TallyUp normalises all incomes to an annual figure for the forecast.
+Enter the amount per payment and how often it is received — monthly, quarterly, annually, or another interval. Tally Up normalises all incomes to an annual figure for the forecast.
 
 ### Growth rate
 Choose how the income changes over time:
@@ -54,7 +54,7 @@ When this income stops:
 The person who receives this income. Tax is calculated based on the owner's tax residence and bands.
 
 ### Receiving asset
-The asset where this income is deposited. If left on automatic, TallyUp decides where to allocate incoming funds based on your funding rules.
+The asset where this income is deposited. If left on automatic, Tally Up decides where to allocate incoming funds based on your funding rules.
 
 ---
 

@@ -1,6 +1,6 @@
 # Forecast & Projections
 
-The Forecast shows where your financial plan is heading. TallyUp projects your assets, income, and expenses forward — by default for 30 years — and shows you the likely trajectory of your net worth over time.
+The Forecast shows where your financial plan is heading. Tally Up projects your assets, income, and expenses forward — by default for 30 years — and shows you the likely trajectory of your net worth over time.
 
 ---
 
