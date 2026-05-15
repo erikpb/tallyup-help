@@ -1,9 +1,15 @@
 site_name: TallyUp Help
 site_description: User guide for TallyUp — personal financial planning
-site_url: https://ebo.github.io/tallyup-help/
+site_url: https://help.tally-up.app/
 
 theme:
   name: material
+  logo: _assets/logo.png
+  favicon: _assets/logo.png
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
   features:
     - navigation.sections
     - navigation.expand
@@ -11,6 +17,9 @@ theme:
     - search.highlight
     - search.suggest
     - content.action.edit
+
+extra_css:
+  - _assets/stylesheets/extra.css
 
 markdown_extensions:
   - admonition

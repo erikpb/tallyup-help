@@ -2,3 +2,8 @@ site/
 .DS_Store
 __pycache__/
 *.pyc
+
+# Unreleased features — exclude until shipped
+docs/Taxation/Capital Gains.md
+docs/Assets and Transactions/Transaction Import/Bank Connections.md
+docs/Budgeting/Funding Rules.md

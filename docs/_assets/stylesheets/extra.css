@@ -1,0 +1,21 @@
+/* TallyUp brand colours — derived from customBlue (#28406E light / #7AB2FF dark) */
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        #28406E;
+  --md-primary-fg-color--light: #3d5a9a;
+  --md-primary-fg-color--dark:  #1c2e52;
+  --md-primary-bg-color:        #ffffff;
+  --md-primary-bg-color--light: rgba(255, 255, 255, 0.7);
+  --md-accent-fg-color:         #28406E;
+  --md-accent-fg-color--transparent: rgba(40, 64, 110, 0.1);
+  --md-typeset-a-color:         #28406E;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #7AB2FF;
+  --md-primary-fg-color--light: #a8cbff;
+  --md-primary-fg-color--dark:  #5a90e0;
+  --md-accent-fg-color:         #7AB2FF;
+  --md-accent-fg-color--transparent: rgba(122, 178, 255, 0.1);
+  --md-typeset-a-color:         #7AB2FF;
+}
