@@ -1,0 +1,46 @@
+site_name: TallyUp Help
+site_description: User guide for TallyUp — personal financial planning
+site_url: https://ebo.github.io/tallyup-help/
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.action.edit
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Getting Started: Getting Started.md
+  - Plans: Plans.md
+  - People: People.md
+  - Assets & Transactions:
+    - Assets: Assets and Transactions/Assets.md
+    - Transactions: Assets and Transactions/Transactions.md
+    - Categories: Assets and Transactions/Categories.md
+    - Category Rules: Assets and Transactions/Category Rules.md
+    - Transaction Import:
+      - QIF: Assets and Transactions/Transaction Import/QIF.md
+      - CSV: Assets and Transactions/Transaction Import/CSV.md
+  - Market Data:
+    - Securities: Market Data/Securities.md
+    - FX Rates: Market Data/FX Rates.md
+  - Reports & Charts:
+    - Net Worth & Performance: Reports and Charts/Net Worth and Performance.md
+    - Forecast & Projections: Reports and Charts/Forecast and Projections.md
+    - Report Builder: Reports and Charts/Report Builder.md
+  - Budgeting:
+    - Income: Budgeting/Income.md
+    - Expenses: Budgeting/Expenses.md
+    - Budgets: Budgeting/Budgets.md
+  - Settings & Subscription: Settings and Subscription.md
+  - Export & Backup: Export and Backup.md
