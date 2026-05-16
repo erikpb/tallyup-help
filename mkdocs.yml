@@ -51,6 +51,7 @@ nav:
     - Income: Budgeting/Income.md
     - Expenses: Budgeting/Expenses.md
     - Budgets: Budgeting/Budgets.md
-  - Settings: Settings.md
-  - Privacy: Privacy.md
-  - Export & Backup: Export and Backup.md
+  - System:
+    - Settings: Settings.md
+    - Export & Backup: Export and Backup.md
+    - Privacy: Privacy.md

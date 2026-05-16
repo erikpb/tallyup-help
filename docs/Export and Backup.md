@@ -55,6 +55,10 @@ Manual exports are for your own peace of mind and for moving data to locations o
 
 ## Tips
 
-- Export a full plan backup before making significant changes — deleting assets, reorganising categories, or running a large import.
-- Keep at least one recent full export somewhere outside the device (for example, in an email to yourself or on a computer). iCloud sync is not a substitute for a deliberate backup.
+!!! tip "Back up before significant changes"
+    Export a full plan backup before deleting assets, reorganising categories, or running a large import. It takes seconds and gives you a restore point.
+
+!!! tip
+    Keep at least one recent full export somewhere outside the device — in an email to yourself or on a computer. iCloud sync is not a substitute for a deliberate backup.
+
 - If you are moving to a new Apple ID, export your plans manually first — iCloud sync does not transfer across accounts.

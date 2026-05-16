@@ -41,7 +41,10 @@ Tap any category to edit its name, type, or parent. Changes apply immediately ac
 
 ### Deleting a category
 
-Swipe to delete. Transactions that used the deleted category become uncategorised.
+!!! warning
+    Transactions that used the deleted category become uncategorised. This cannot be undone.
+
+Swipe to delete.
 
 ---
 

@@ -30,7 +30,8 @@ Set a target amount for each category you want to track:
 - Enter an amount and choose a frequency: weekly, fortnightly, monthly, quarterly, or yearly
 - Tally Up normalises all amounts to an annual figure for consistent comparison
 
-**Parent and child categories** — you can set a budget at either the parent or child level, but not both. If a parent category has a budget, its immediate children cannot also have individual budgets, and vice versa.
+!!! note "Parent and child categories"
+    You can set a budget at either the parent or child level, but not both. If a parent category has a budget, its immediate children cannot also have individual budgets, and vice versa.
 
 ---
 

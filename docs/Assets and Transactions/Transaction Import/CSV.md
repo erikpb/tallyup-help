@@ -71,6 +71,7 @@ Reimporting the same file is safe — duplicates are detected and updated rather
 
 ## Tips
 
-- If your bank offers both CSV and QIF export, prefer QIF — it carries more structure (categories, splits, payee names) than most CSV files.
+!!! tip
+    If your bank offers both CSV and QIF export, prefer QIF — it carries more structure (categories, splits, payee names) than most CSV files.
 - For investment accounts, look for an export that includes separate columns for quantity, price, and fees rather than a single net amount.
 - If dates are not parsing correctly, check the date format hint in the mapping screen (e.g. `dd/MM/yyyy` vs `MM/dd/yyyy`).

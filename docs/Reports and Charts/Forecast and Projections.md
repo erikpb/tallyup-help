@@ -49,7 +49,10 @@ The cash flow view shows projected income versus projected expenses year by year
 
 ## What If mode
 
-To test different scenarios without changing your plan, use **What If** mode. Adjust assumptions — growth rates, retirement age, income amounts — and see immediately how they affect the 30-year projection. Changes made in What If mode are not saved to your plan.
+To test different scenarios without changing your plan, use **What If** mode. Adjust assumptions — growth rates, retirement age, income amounts — and see immediately how they affect the 30-year projection.
+
+!!! note
+    Changes made in What If mode are not saved to your plan. Close What If mode to return to your actual figures.
 
 ---
 

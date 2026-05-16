@@ -78,7 +78,10 @@ To manage groups, use the group controls in the Assets screen.
 
 When an account is closed or no longer active, you can archive it rather than delete it. Archived assets are hidden from the main view but their history is preserved.
 
-To archive an asset it must have a zero balance and no open security positions. Tap the asset, open its settings, and choose **Archive**.
+!!! note
+    To archive an asset it must have a zero balance and no open security positions.
+
+Tap the asset, open its settings, and choose **Archive**.
 
 Archived assets can be shown by enabling **Show Archived Assets** in the Assets screen. They can also be permanently deleted from there.
 

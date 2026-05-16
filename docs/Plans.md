@@ -49,7 +49,8 @@ To change a plan's name or start year, open the Plans screen and edit the plan. 
 
 ## Deleting a plan
 
-Deleting a plan permanently removes all the data within it — people, assets, transactions, and everything else. This cannot be undone. Export a backup first if you may need the data later.
+!!! danger
+    Deleting a plan permanently removes all the data within it — people, assets, transactions, and everything else. This cannot be undone. Export a backup first if you may need the data later.
 
 ---
 
@@ -61,4 +62,7 @@ Plans can be exported as a JSON file and restored from that file at any time. Se
 
 ## Base currency
 
-Tally Up uses a single **base currency** for all reporting across all plans. This is set in **Settings → Base Currency** and is not specific to any one plan. Individual assets can be held in any currency — Tally Up converts them to your base currency for consolidated reports.
+!!! note
+    The base currency is a global setting — it applies across all your plans, not just the current one. Set it in **Settings → Base Currency**.
+
+Individual assets can be held in any currency — Tally Up converts them to your base currency for consolidated reports.
