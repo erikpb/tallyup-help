@@ -6,6 +6,9 @@ The Forecast shows where your financial plan is heading. Tally Up projects your 
 
 ## What the forecast shows
 
+![Forecast](../_assets/screenshots/010-dashboard-forecast.png)
+  *Forecast showing asset projection over 30 years.*
+  
 The forecast presents a year-by-year view of your projected financial position:
 
 - **Net worth** — total asset value at the end of each year
@@ -13,6 +16,15 @@ The forecast presents a year-by-year view of your projected financial position:
 - **Asset breakdown** — how each asset grows, draws down, or changes over time
 - **Operational cash** — available spending money after funding expenses and liabilities
 
+<figure style="text-align: center;">
+    <img
+      src="../_assets/screenshots/dashboard.png"
+      alt="Forecast"
+      title="Forecast"
+    />
+    <figcaption>Forecast showing asset projection over 30 years.</figcaption>
+</figure>
+    
 ---
 
 ## What drives the forecast
