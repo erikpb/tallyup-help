@@ -4,11 +4,7 @@ The Forecast shows where your financial plan is heading. Tally Up projects your 
 
 ---
 
-## What the forecast shows
-
-![Forecast](../_assets/screenshots/010-dashboard-forecast.png)
-  *Forecast showing asset projection over 30 years.*
-  
+## What the forecast shows  
 The forecast presents a year-by-year view of your projected financial position:
 
 - **Net worth** — total asset value at the end of each year
@@ -18,7 +14,7 @@ The forecast presents a year-by-year view of your projected financial position:
 
 <figure style="text-align: center;">
     <img
-      src="../_assets/screenshots/dashboard.png"
+      src="../../_assets/screenshots/010-dashboard-forecast.png"
       alt="Forecast"
       title="Forecast"
     />

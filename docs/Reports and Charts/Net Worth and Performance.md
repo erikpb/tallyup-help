@@ -10,6 +10,9 @@ The NAV report shows your total net worth over time — the combined value of al
 
 You can view it over any date range and drill into individual asset types to see how each has contributed to your overall position. Month-by-month and year-by-year views let you track progress over time.
 
+![NAV](../_assets/screenshots/100-dashboard-nav.png)
+  *Net Asset Value.*
+
 ---
 
 ## Portfolio
@@ -26,13 +29,13 @@ For each holding you can see:
 
 ---
 
-## Portfolio Briefing
+## Net Worth
 
 The Portfolio Briefing is a summary view of your portfolio's overall status — total value, performance over different time horizons, and a high-level breakdown by asset type.
 
 ---
 
-## Asset performance
+## Investment Summary
 
 Individual assets show their own performance history: opening balance, closing balance, and the transactions that drove the change. For investment assets, this includes the return rate achieved compared to the rate assumed in your forecast.
 
